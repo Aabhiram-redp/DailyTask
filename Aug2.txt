@@ -1,0 +1,11 @@
+Aug-2
+--------
+1.practiced sass control directives such as:
+ *@if
+ *@for
+ *@each
+ *@while
+2.Learned Bootstrap basics and practiced bootstrap in middleman.
+3.Learned how to configure and use Bootstrap templates in middleman.
+4.imported a bootstrap template in middleman and uploaded into github.
+5.github:https://github.com/Aabhiram-redp/Redpanthers-Training/tree/Aug2
