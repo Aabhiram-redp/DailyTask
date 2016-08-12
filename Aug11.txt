@@ -1,0 +1,14 @@
+Aug11
+-----
+Javascript
+
+:
+- Learned about Math functions 
+
+- Learned about Arrays
+
+- Learned about Collections and Objects 
+
+- Learned about JSON 
+
+- Learned about Form Objets
