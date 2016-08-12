@@ -1,0 +1,7 @@
+Aug12:
+-----
+javascript & JSON
+
+-learned advanced javascript fundamentals.
+-watched advanced javascript fundamentals video tutorials.
+-learned JSON basics
