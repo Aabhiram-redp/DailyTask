@@ -1,0 +1,9 @@
+Aug17
+------
+javascript plugin:
+
+1.learned about parsley.js 
+2.validate a form with parsley.js plugin
+3.learned about dropzone.js
+4.created a drag and drop file uploader using Dropzone
+5.create different types of page loaders using pace.js
